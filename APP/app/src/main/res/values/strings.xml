@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Seguimiento de Prospectos</string>
+  <string name="form_nombre">Nombre</string>
+  <string name="form_apellidop">Apellido Paterno</string>
+  <string name="form_apellidom">Apellido  Materno</string>
+  <string name="form_calle">Calle</string>
+  <string name="form_numero">Número</string>
+  <string name="form_colonia">Colonia</string>
+  <string name="form_cp">Código Postal</string>
+  <string name="form_telefono">Teléfono</string>
+  <string name="form_rfc">RFC</string>
+  <string name="estatus">Activo</string>
+
+
+
+
+    <string-array name="spinner">
+      <item>Enviado</item>
+      <item>Autorizado</item>
+      <item>Rechazado</item>
+    </string-array>
+
+
+
+  <string name="button_save">Guardar Prospecto</string>
+</resources>
